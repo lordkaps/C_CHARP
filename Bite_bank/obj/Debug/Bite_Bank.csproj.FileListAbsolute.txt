@@ -1,0 +1,8 @@
+C:\Users\Augusto\source\repos\Bite_Bank\Bite_Bank\obj\Debug\Bite_Bank.csproj.AssemblyReference.cache
+C:\Users\Augusto\source\repos\Bite_Bank\Bite_Bank\obj\Debug\Bite_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Augusto\source\repos\Bite_Bank\Bite_Bank\obj\Debug\Bite_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\Bite_Bank\Bite_Bank\bin\Debug\Bite_Bank.exe.config
+C:\Users\Augusto\source\repos\Bite_Bank\Bite_Bank\bin\Debug\Bite_Bank.exe
+C:\Users\Augusto\source\repos\Bite_Bank\Bite_Bank\bin\Debug\Bite_Bank.pdb
+C:\Users\Augusto\source\repos\Bite_Bank\Bite_Bank\obj\Debug\Bite_Bank.exe
+C:\Users\Augusto\source\repos\Bite_Bank\Bite_Bank\obj\Debug\Bite_Bank.pdb

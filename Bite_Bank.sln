@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bite_Bank", "Bite_Bank\Bite_Bank.csproj", "{C54269C1-F43B-4EEF-9400-300EE58B7A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54269C1-F43B-4EEF-9400-300EE58B7A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54269C1-F43B-4EEF-9400-300EE58B7A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54269C1-F43B-4EEF-9400-300EE58B7A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54269C1-F43B-4EEF-9400-300EE58B7A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815F6F0D-D969-4489-8470-38F415948E42}
+	EndGlobalSection
+EndGlobal
